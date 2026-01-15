@@ -1,0 +1,6 @@
+# _config.yml
+title: 第一赛季
+description: 这里是第一赛季的开发脚本
+
+# 启用自动生成导航的关键配置
+nav_exclude: false # 默认就是false，确保不排除
